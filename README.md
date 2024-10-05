@@ -1,4 +1,5 @@
 # Pay Secure
+![App Icon](app/src/main/res/drawable/icon.png)
 
 ## Overview
 
@@ -44,5 +45,6 @@ Pay Secure is an Android application designed to help users manage their income 
 
 This README provides a comprehensive overview of your project, making it easy for others to understand its purpose and how to contribute. Feel free to modify any section as needed!
 
-# License
-This project is licensed under the MIT [License] - see the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
