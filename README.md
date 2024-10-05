@@ -1,6 +1,5 @@
-# Pay Secure
-
 <img src="app/src/main/res/drawable/icon.png" alt="App Icon" width="100" height="100">
+# Pay Secure
 
 ## Overview
 
