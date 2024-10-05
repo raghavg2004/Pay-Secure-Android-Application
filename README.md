@@ -33,3 +33,14 @@ Pay Secure is an Android application designed to help users manage their income 
 * Upon launching the app, users can authenticate using their fingerprint or PIN.
 * Users can add transactions by specifying the amount, category, and type (income or expense).
 * The app provides a summary of all transactions and visual statistics for better financial management.
+
+  
+### Instructions for Use
+
+1. **Copy** the above code.
+2. **Paste** it into a new file called `README.md` in the root directory of your project.
+3. **Customize** the placeholders (`yourusername`, `yourprofile`, etc.) with your actual GitHub username and relevant links.
+4. **Save** the file and commit it to your repository.
+
+This README provides a comprehensive overview of your project, making it easy for others to understand its purpose and how to contribute. Feel free to modify any section as needed!
+
