@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transactions"
+        android:icon="@drawable/book"
+        android:title="Transition" />
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/stats"
+        android:title="Stats" />
+    <item
+        android:id="@+id/pay_now"
+        android:icon="@drawable/pay_rs"
+        android:title="Pay" />
+    <!--<item
+        android:id="@+id/accounts"
+        android:icon="@drawable/ic_accounts"
+        android:title="Accounts" />-->
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/more"
+        android:title="More" />
+</menu>
