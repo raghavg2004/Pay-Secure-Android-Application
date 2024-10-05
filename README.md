@@ -18,8 +18,10 @@ Pay Secure is an Android application designed to help users manage their income 
 - **Programming Language**: Java
 - **Android SDK**: For building the Android application
 - **Architecture**: MVVM (Model-View-ViewModel)
-- **Room Database**: For local data storage
 - **Biometric Authentication**: Using Android's Biometric API
+- **Backend**: JAVA, MongoDB
+- **Database**: Realm
+- **Room Database**: For local data storage
 
 ## Installation
 
